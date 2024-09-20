@@ -1,4 +1,4 @@
-name: Daily Hacker News
+name: Daily MD
 on:
   schedule:
     - cron: '53 15 * * *'  # 每天UTC时间早上15:50（北京时间下午23:50自动运行）
@@ -29,9 +29,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install mysql-connector-python
-        pip install pandas
-        pip install tabulate
+        pip install mysql-connector-python datetime pytz pandas tabulate
 
     - name: Generate Markdown
       run: |
