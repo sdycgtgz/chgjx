@@ -1,0 +1,49 @@
+name: Daily Hacker News
+on:
+  schedule:
+    - cron: '53 15 * * *'  # 每天UTC时间早上15:50（北京时间下午23:50自动运行）
+  workflow_dispatch:  # 手动触发
+
+jobs:
+  hacknernews:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    environment:
+      name: test
+    env:
+      MYSQL_HOST: ${{ secrets.MYSQL_HOST }}
+      MYSQL_USER: ${{ secrets.MYSQL_USER }}
+      MYSQL_PASSWORD: ${{ secrets.MYSQL_PASSWORD }}
+      MYSQL_DATABASE: ${{ secrets.MYSQL_DATABASE }}
+      SQL: ${{ secrets.SQL }}
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install mysql-connector-python
+        pip install pandas
+        pip install tabulate
+
+    - name: Generate Markdown
+      run: |
+        python scripts/create_md.py
+
+    - name: Commit files
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git pull
+        git add .
+        git commit -m "Generated README.md daily"
+
+    - name: Push changes
+      run: git push
