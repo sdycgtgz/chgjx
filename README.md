@@ -1,8 +1,8 @@
 # 出海工具箱
 
-> 本文档更新时间:2024-09-21 02:30:19，欢迎star。[**新增**] 表示7天内增加的。
+> 本文档更新时间:2024-09-21 02:49:53，欢迎star。[**新增**] 表示7天内增加的。
 
-[出海工具箱](http://www.chgjx.com)收集各类建站、SEO、选品、营销推广等工具，为广大独立开发者出海，跨境电商从业者，自媒体从业者服务，助力您取得成功！
+[出海工具箱](http://www.chgjx.com)收集各类建站、SEO、选品、营销推广等工具，目前已收集**87**种服务/网站/工具，为广大独立开发者出海，跨境电商从业者，自媒体从业者服务，助力您取得成功！
 
 ## 关键词工具
 
@@ -81,15 +81,15 @@
 
 ## 建站资源
 
-| title                                                                | description                                                                                                                                                |
-|:---------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**新增**] [Wappalyzer](https://www.chgjx.com/sites/1081.html)         | Wappalyzer 是一个功能强大的网站技术分析工具，提供广泛的技术识别和分析功能，帮助用户了解网站使用的技术栈、分析竞争对手的技术策略、发现技术差距和机会。                                                                           |
-| [**新增**] [Supastarter](https://www.chgjx.com/sites/1022.html)        | Supastarter 是一个为 Nuxt 3 和 Next.js 14 准备的可投入生产的 SaaS 样板。它包括认证、计费、国际化、多租户等功能。                                                                                |
-| [**新增**] [ThemeForest](https://www.chgjx.com/sites/1020.html)        | 探索数千个优质的 WordPress 主题和网站模板，包括多用途且响应式的 Bootstrap 模板、电子邮件模板和 HTML 模板。                                                                                        |
-| [**新增**] [HTMLrev](https://www.chgjx.com/sites/1018.html)            | 探索由原生 CSS、Bootstrap、Tailwind、React、Vue、Next.js、Nuxt、Svelte、Gatsby、Laravel、Astro 等构建的免费 HTML 网站模板。                                                          |
-| [**新增**] [Saasfly](https://www.chgjx.com/sites/1016.html)            | Saasfly 是一个易于使用的企业级 Next.js 样板，提供了快速、轻松构建 SaaS 应用的完整开源解决方案。                                                                                                |
-| [**新增**] [HeyForm](https://www.chgjx.com/sites/1012.html)            | Create surveys, quizzes, and polls with HeyForm's free form builder. Sign up now to craft beautiful, interactive online forms easily and quickly for FREE. |
-| [**新增**] [Postmark-templates](https://www.chgjx.com/sites/1009.html) | 邮件模板，包含多种模板类型如欢迎邮件、重置密码邮件等，每种都有三种布局变化。可用于开发者在给用户发的各类邮件中。                                                                                                   |
+| title                                                                | description                                                                                       |
+|:---------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|
+| [**新增**] [Wappalyzer](https://www.chgjx.com/sites/1081.html)         | Wappalyzer 是一个功能强大的网站技术分析工具，提供广泛的技术识别和分析功能，帮助用户了解网站使用的技术栈、分析竞争对手的技术策略、发现技术差距和机会。                  |
+| [**新增**] [Supastarter](https://www.chgjx.com/sites/1022.html)        | Supastarter 是一个为 Nuxt 3 和 Next.js 14 准备的可投入生产的 SaaS 样板。它包括认证、计费、国际化、多租户等功能。                       |
+| [**新增**] [ThemeForest](https://www.chgjx.com/sites/1020.html)        | 探索数千个优质的 WordPress 主题和网站模板，包括多用途且响应式的 Bootstrap 模板、电子邮件模板和 HTML 模板。                               |
+| [**新增**] [HTMLrev](https://www.chgjx.com/sites/1018.html)            | 探索由原生 CSS、Bootstrap、Tailwind、React、Vue、Next.js、Nuxt、Svelte、Gatsby、Laravel、Astro 等构建的免费 HTML 网站模板。 |
+| [**新增**] [Saasfly](https://www.chgjx.com/sites/1016.html)            | Saasfly 是一个易于使用的企业级 Next.js 样板，提供了快速、轻松构建 SaaS 应用的完整开源解决方案。                                       |
+| [**新增**] [HeyForm](https://www.chgjx.com/sites/1012.html)            | 使用 HeyForm 的免费表单生成器创建调查、测验和投票。现在注册，即可轻松快速地免费制作漂亮、互动的在线表单。                                         |
+| [**新增**] [Postmark-templates](https://www.chgjx.com/sites/1009.html) | 邮件模板，包含多种模板类型如欢迎邮件、重置密码邮件等，每种都有三种布局变化。可用于开发者在给用户发的各类邮件中。                                          |
 
 ## 提交工具
 
