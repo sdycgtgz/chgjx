@@ -1,6 +1,4 @@
-'''
-Description: Test
-'''
+
 import os
 import mysql.connector
 import pandas as pd
@@ -50,7 +48,7 @@ def generate_markdown_tables(posts_data,bj_time,day,beijing_tz):
 
     # 按分类分组
     grouped = df.groupby("category")
-    markdown_header = f"# 出海工具箱\n\n> 本文档更新时间:{formatted_time}，欢迎star。[**新增**] 表示7天内增加的。\n\n[出海工具箱](http://www.chgjx.com)收集各类建站、SEO、选品、营销推广等工具，目前已收集**{row_count}**种服务/网站/工具，为广大独立开发者出海，跨境电商从业者，自媒体从业者服务，助力您取得成功！\n\n"
+    markdown_header = f"# 出海工具箱\n\n> 本文档更新时间:{formatted_time}，欢迎star。[**新增**] 表示7天内增加的。\n\n[出海工具箱](http://www.chgjx.com)收集各类建站、SEO、选品、营销推广等工具，目前已收集**{row_count}**种服务/网站/工具(部分服务属于多个分类，未去重)，为广大独立开发者出海，跨境电商从业者，自媒体从业者服务，助力您取得成功！\n\n"
 
     markdown_tables = []
 
