@@ -1,8 +1,8 @@
 # 出海工具箱
 
-> 本文档更新时间:2024-10-06 00:01:05，欢迎star。[**新增**] 表示7天内增加的。
+> 本文档更新时间:2024-10-07 00:00:51，欢迎star。[**新增**] 表示7天内增加的。
 
-[出海工具箱](http://www.chgjx.com)收集各类建站、SEO、选品、营销推广等工具，目前已收集**199**种服务/网站/工具(部分服务属于多个分类，未去重)，为广大独立开发者出海，跨境电商从业者，自媒体从业者服务，助力您取得成功！
+[出海工具箱](http://www.chgjx.com)收集各类建站、SEO、选品、营销推广等工具，目前已收集**203**种服务/网站/工具(部分服务属于多个分类，未去重)，为广大独立开发者出海，跨境电商从业者，自媒体从业者服务，助力您取得成功！
 
 ## Dropshipping
 
@@ -95,11 +95,12 @@
 
 ## 头脑风暴
 
-| title                                                         | description                                                                                         |
-|:--------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|
-| [**新增**] [Buildpad](https://www.chgjx.com/sites/1347.html)    | 将你的商业想法转化为值得付费的产品。Buildpad 会引导你完成每一步，从想法验证到扩大你的业务规模，在每个环节都提供指导。                                     |
-| [**新增**] [Hacker News](https://www.chgjx.com/sites/1271.html) | 允许用户提交和讨论各种与计算机科学、创业和科技相关的新闻和话题。用户可以在该网站上浏览最新的新闻、评论、提问和讨论，并与志同道合的人分享见解和知识                           |
-| [**新增**] [出海去孵化器](https://www.chgjx.com/sites/1032.html)      | 出海去孵化器是一个赋能独立创客、一人公司和小微团队的新型社区孵化器，助您实现全球淘金的目标。与超过 4000 位独立开发者们一起出海淘金，加入我们参与孵化出海项目 | 旁听出海经验 | 寻找出海伙伴 |
+| title                                                                   | description                                                                                         |
+|:------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|
+| [**新增**] [Landing Page Examples](https://www.chgjx.com/sites/1390.html) | 根据你的喜好找到最适合的着陆页(Landing page)以获取设计灵感。                                                               |
+| [**新增**] [Buildpad](https://www.chgjx.com/sites/1347.html)              | 将你的商业想法转化为值得付费的产品。Buildpad 会引导你完成每一步，从想法验证到扩大你的业务规模，在每个环节都提供指导。                                     |
+| [**新增**] [Hacker News](https://www.chgjx.com/sites/1271.html)           | 允许用户提交和讨论各种与计算机科学、创业和科技相关的新闻和话题。用户可以在该网站上浏览最新的新闻、评论、提问和讨论，并与志同道合的人分享见解和知识                           |
+| [**新增**] [出海去孵化器](https://www.chgjx.com/sites/1032.html)                | 出海去孵化器是一个赋能独立创客、一人公司和小微团队的新型社区孵化器，助您实现全球淘金的目标。与超过 4000 位独立开发者们一起出海淘金，加入我们参与孵化出海项目 | 旁听出海经验 | 寻找出海伙伴 |
 
 ## 小报童精选
 
@@ -155,28 +156,29 @@
 
 ## 建站资源
 
-| title                                                                | description                                                                                              |
-|:---------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|
-| [**新增**] [Preline UI](https://www.chgjx.com/sites/1378.html)         | Preline UI 是一个开源的 Tailwind CSS 组件库，适用于各种需求。它提供了 UI 示例和模块、模板、插件、Figma 设计系统等。                              |
-| [**新增**] [Uiverse](https://www.chgjx.com/sites/1371.html)            | 由社区制作的免费且可自定义的 UI 元素库，使用 CSS 或 Tailwind 构建。所有内容都可以免费复制并在你的项目中使用。Uiverse 可以为你的下一个项目节省大量用于构建和自定义 UI 组件的时间。 |
-| [**新增**] [tawk.to](https://www.chgjx.com/sites/1369.html)            | 100% 免费的实时聊天软件，可用于监控网站上或来自可免费自定义页面的访客并与之聊天。                                                              |
-| [**新增**] [Quidget](https://www.chgjx.com/sites/1353.html)            | 借助 Quidget 的人工智能代理自动处理 80% 的一级查询，以实现更快、更准确的响应并减少工作量。                                                     |
-| [**新增**] [Hapticlabs](https://www.chgjx.com/sites/1351.html)         | Hapticlabs 提供了一个无代码工具包，用于设计、制作原型和部署沉浸式触觉体验。使用 Hapticlabs Studio、开发工具包和移动应用程序，无需编码即可在不同设备上创建自定义触觉交互。      |
-| [**新增**] [Embeddable](https://www.chgjx.com/sites/1349.html)         | 用于在您的产品中构建快速加载的交互式仪表板。 ⭐️ 用代码自定义我们的图表，或自带自己的图表 ⭐️ 在无代码界面中轻松构建仪表板 ⭐️ 直接嵌入到您的前端 - 无需 iframe！               |
-| [**新增**] [Buildpad](https://www.chgjx.com/sites/1347.html)           | 将你的商业想法转化为值得付费的产品。Buildpad 会引导你完成每一步，从想法验证到扩大你的业务规模，在每个环节都提供指导。                                          |
-| [**新增**] [Oodle](https://www.chgjx.com/sites/1343.html)              | 无服务器、完全托管、大规模可替代 Prometheus 的即插即用方案。                                                                     |
-| [**新增**] [URL2Tailwind](https://www.chgjx.com/sites/1338.html)       | 只需点击一下，即可将任何 URL 转换为漂亮的 Tailwind CSS HTML 文件。快速、简单且功能强大。                                                 |
-| [**新增**] [Featurebase](https://www.chgjx.com/sites/1334.html)        | 面向快速增长的初创公司的产品反馈和变更日志平台。简化反馈收集，识别有影响力的产品机会并通过构建正确的功能来更快地扩展。                                              |
-| [**新增**] [Polymet](https://www.chgjx.com/sites/1319.html)            | Polymet 助你轻松打造精美用户界面和原型，无需任何设计背景。只需描述你的需求或提供一张图片，Polymet 就能为你设计出成品，并附上可直接用于生产的代码。                        |
-| [**新增**] [AutoI18n](https://www.chgjx.com/sites/1288.html)           | 借助本地工具，帮助你轻松完成 Next.js 项目的国际化（i18n）集成以及更新、维护、翻译等工作！                                                      |
-| [**新增**] [v0 by Vercel](https://www.chgjx.com/sites/1150.html)       | 与 v0 聊天。用简单的文本提示生成用户界面。复制、粘贴、发布。                                                                         |
-| [**新增**] [Wappalyzer](https://www.chgjx.com/sites/1081.html)         | Wappalyzer 是一个功能强大的网站技术分析工具，提供广泛的技术识别和分析功能，帮助用户了解网站使用的技术栈、分析竞争对手的技术策略、发现技术差距和机会。                         |
-| [**新增**] [Supastarter](https://www.chgjx.com/sites/1022.html)        | Supastarter 是一个为 Nuxt 3 和 Next.js 14 准备的可投入生产的 SaaS 样板。它包括认证、计费、国际化、多租户等功能。                              |
-| [**新增**] [ThemeForest](https://www.chgjx.com/sites/1020.html)        | 探索数千个优质的 WordPress 主题和网站模板，包括多用途且响应式的 Bootstrap 模板、电子邮件模板和 HTML 模板。                                      |
-| [**新增**] [HTMLrev](https://www.chgjx.com/sites/1018.html)            | 探索由原生 CSS、Bootstrap、Tailwind、React、Vue、Next.js、Nuxt、Svelte、Gatsby、Laravel、Astro 等构建的免费 HTML 网站模板。        |
-| [**新增**] [Saasfly](https://www.chgjx.com/sites/1016.html)            | Saasfly 是一个易于使用的企业级 Next.js 样板，提供了快速、轻松构建 SaaS 应用的完整开源解决方案。                                              |
-| [**新增**] [HeyForm](https://www.chgjx.com/sites/1012.html)            | 使用 HeyForm 的免费表单生成器创建调查、测验和投票。现在注册，即可轻松快速地免费制作漂亮、互动的在线表单。                                                |
-| [**新增**] [Postmark-templates](https://www.chgjx.com/sites/1009.html) | 邮件模板，包含多种模板类型如欢迎邮件、重置密码邮件等，每种都有三种布局变化。可用于开发者在给用户发的各类邮件中。                                                 |
+| title                                                                   | description                                                                                              |
+|:------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|
+| [**新增**] [Landing Page Examples](https://www.chgjx.com/sites/1390.html) | 根据你的喜好找到最适合的着陆页(Landing page)以获取设计灵感。                                                                    |
+| [**新增**] [Preline UI](https://www.chgjx.com/sites/1378.html)            | Preline UI 是一个开源的 Tailwind CSS 组件库，适用于各种需求。它提供了 UI 示例和模块、模板、插件、Figma 设计系统等。                              |
+| [**新增**] [Uiverse](https://www.chgjx.com/sites/1371.html)               | 由社区制作的免费且可自定义的 UI 元素库，使用 CSS 或 Tailwind 构建。所有内容都可以免费复制并在你的项目中使用。Uiverse 可以为你的下一个项目节省大量用于构建和自定义 UI 组件的时间。 |
+| [**新增**] [tawk.to](https://www.chgjx.com/sites/1369.html)               | 100% 免费的实时聊天软件，可用于监控网站上或来自可免费自定义页面的访客并与之聊天。                                                              |
+| [**新增**] [Quidget](https://www.chgjx.com/sites/1353.html)               | 借助 Quidget 的人工智能代理自动处理 80% 的一级查询，以实现更快、更准确的响应并减少工作量。                                                     |
+| [**新增**] [Hapticlabs](https://www.chgjx.com/sites/1351.html)            | Hapticlabs 提供了一个无代码工具包，用于设计、制作原型和部署沉浸式触觉体验。使用 Hapticlabs Studio、开发工具包和移动应用程序，无需编码即可在不同设备上创建自定义触觉交互。      |
+| [**新增**] [Embeddable](https://www.chgjx.com/sites/1349.html)            | 用于在您的产品中构建快速加载的交互式仪表板。 ⭐️ 用代码自定义我们的图表，或自带自己的图表 ⭐️ 在无代码界面中轻松构建仪表板 ⭐️ 直接嵌入到您的前端 - 无需 iframe！               |
+| [**新增**] [Buildpad](https://www.chgjx.com/sites/1347.html)              | 将你的商业想法转化为值得付费的产品。Buildpad 会引导你完成每一步，从想法验证到扩大你的业务规模，在每个环节都提供指导。                                          |
+| [**新增**] [Oodle](https://www.chgjx.com/sites/1343.html)                 | 无服务器、完全托管、大规模可替代 Prometheus 的即插即用方案。                                                                     |
+| [**新增**] [URL2Tailwind](https://www.chgjx.com/sites/1338.html)          | 只需点击一下，即可将任何 URL 转换为漂亮的 Tailwind CSS HTML 文件。快速、简单且功能强大。                                                 |
+| [**新增**] [Featurebase](https://www.chgjx.com/sites/1334.html)           | 面向快速增长的初创公司的产品反馈和变更日志平台。简化反馈收集，识别有影响力的产品机会并通过构建正确的功能来更快地扩展。                                              |
+| [**新增**] [Polymet](https://www.chgjx.com/sites/1319.html)               | Polymet 助你轻松打造精美用户界面和原型，无需任何设计背景。只需描述你的需求或提供一张图片，Polymet 就能为你设计出成品，并附上可直接用于生产的代码。                        |
+| [**新增**] [AutoI18n](https://www.chgjx.com/sites/1288.html)              | 借助本地工具，帮助你轻松完成 Next.js 项目的国际化（i18n）集成以及更新、维护、翻译等工作！                                                      |
+| [**新增**] [v0 by Vercel](https://www.chgjx.com/sites/1150.html)          | 与 v0 聊天。用简单的文本提示生成用户界面。复制、粘贴、发布。                                                                         |
+| [**新增**] [Wappalyzer](https://www.chgjx.com/sites/1081.html)            | Wappalyzer 是一个功能强大的网站技术分析工具，提供广泛的技术识别和分析功能，帮助用户了解网站使用的技术栈、分析竞争对手的技术策略、发现技术差距和机会。                         |
+| [**新增**] [Supastarter](https://www.chgjx.com/sites/1022.html)           | Supastarter 是一个为 Nuxt 3 和 Next.js 14 准备的可投入生产的 SaaS 样板。它包括认证、计费、国际化、多租户等功能。                              |
+| [**新增**] [ThemeForest](https://www.chgjx.com/sites/1020.html)           | 探索数千个优质的 WordPress 主题和网站模板，包括多用途且响应式的 Bootstrap 模板、电子邮件模板和 HTML 模板。                                      |
+| [**新增**] [HTMLrev](https://www.chgjx.com/sites/1018.html)               | 探索由原生 CSS、Bootstrap、Tailwind、React、Vue、Next.js、Nuxt、Svelte、Gatsby、Laravel、Astro 等构建的免费 HTML 网站模板。        |
+| [**新增**] [Saasfly](https://www.chgjx.com/sites/1016.html)               | Saasfly 是一个易于使用的企业级 Next.js 样板，提供了快速、轻松构建 SaaS 应用的完整开源解决方案。                                              |
+| [**新增**] [HeyForm](https://www.chgjx.com/sites/1012.html)               | 使用 HeyForm 的免费表单生成器创建调查、测验和投票。现在注册，即可轻松快速地免费制作漂亮、互动的在线表单。                                                |
+| [**新增**] [Postmark-templates](https://www.chgjx.com/sites/1009.html)    | 邮件模板，包含多种模板类型如欢迎邮件、重置密码邮件等，每种都有三种布局变化。可用于开发者在给用户发的各类邮件中。                                                 |
 
 ## 提交工具
 
@@ -308,17 +310,18 @@
 
 ## 网站优化
 
-| title                                                                                                                | description                                                                                                                                           |
-|:---------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Plausible Analytics | Simple, privacy-friendly Google Analytics alternative](https://www.chgjx.com/sites/1273.html) | Plausible 是一个轻量级且开源的 Google Analytics 替代品。您网站的数据 100% 属于您，并且会尊重访问者的隐私。                                                                                |
-| [Yoast](https://www.chgjx.com/sites/1179.html)                                                                       | Yoast 借助我们在国际上广受欢迎的软件和在线 SEO 课程，帮助你进行网站的搜索引擎优化。                                                                                                       |
-| [WebPageTest](https://www.chgjx.com/sites/1087.html)                                                                 | WebPageTest 是一个功能强大的网页性能测试工具，提供广泛的性能测试、多地点测试、性能建议、移动设备优化和历史数据追踪等功能，帮助用户提升网页的加载速度和用户体验。                                                                |
-| [GTmetrix](https://www.chgjx.com/sites/1085.html)                                                                    | GTmetrix 是一个功能强大的网页性能分析工具，提供广泛的性能分析、优化建议、移动设备优化和历史数据追踪等功能，帮助用户提升网页的加载速度和用户体验。                                                                         |
-| [PageSpeed Insights](https://www.chgjx.com/sites/1083.html)                                                          | PageSpeed Insights 是一个功能强大的网页性能分析工具，提供广泛的性能分析和优化建议，帮助用户提升网页的加载速度和用户体验。                                                                                |
-| [WooRank](https://www.chgjx.com/sites/1073.html)                                                                     | WooRank 是一个全面的网站分析和搜索引擎优化（SEO）工具，旨在帮助用户提升网站的在线表现。                                                                                                     |
-| [Majestic](https://www.chgjx.com/sites/1067.html)                                                                    | 利用我们的链接智能数据制定反向链接策略，构建最强的 SEO 反向链接活动，以推动自然流量并提升您的排名。                                                                                                  |
-| [17CE](https://www.chgjx.com/sites/1026.html)                                                                        | 国内最专业最权威的实时网站测速、服务器监控、网络监控、IDC质量评测、PING,DNS,HTTP,CDN测试网站速度监控，遍及国内各省和国外的监测点，包括电信、网通、联通、移动、长城宽带、教育网等线路，测试网站在全国各地和海外的打开速度，全面的报表功能、对比功能、地图展示、柱型图展示等专业测速网站 |
-| [炸了么](https://www.chgjx.com/sites/1024.html)                                                                         | 全球1000+网络拨测节点，模拟用户访问域名/IP，实用小工具，运维必备                                                                                                                  |
+| title                                                                                                                         | description                                                                                                                                           |
+|:------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**新增**] [AI Content Optimization Tool for SEO by Buddler](https://www.chgjx.com/sites/1388.html)                             | 使用 Buddler 的人工智能优化工具轻松更新你的内容。通过人工智能生成的文本提高关键词相关性并提升你的排名。                                                                                              |
+| [**新增**] [Plausible Analytics | Simple, privacy-friendly Google Analytics alternative](https://www.chgjx.com/sites/1273.html) | Plausible 是一个轻量级且开源的 Google Analytics 替代品。您网站的数据 100% 属于您，并且会尊重访问者的隐私。                                                                                |
+| [**新增**] [Yoast](https://www.chgjx.com/sites/1179.html)                                                                       | Yoast 借助我们在国际上广受欢迎的软件和在线 SEO 课程，帮助你进行网站的搜索引擎优化。                                                                                                       |
+| [**新增**] [WebPageTest](https://www.chgjx.com/sites/1087.html)                                                                 | WebPageTest 是一个功能强大的网页性能测试工具，提供广泛的性能测试、多地点测试、性能建议、移动设备优化和历史数据追踪等功能，帮助用户提升网页的加载速度和用户体验。                                                                |
+| [**新增**] [GTmetrix](https://www.chgjx.com/sites/1085.html)                                                                    | GTmetrix 是一个功能强大的网页性能分析工具，提供广泛的性能分析、优化建议、移动设备优化和历史数据追踪等功能，帮助用户提升网页的加载速度和用户体验。                                                                         |
+| [**新增**] [PageSpeed Insights](https://www.chgjx.com/sites/1083.html)                                                          | PageSpeed Insights 是一个功能强大的网页性能分析工具，提供广泛的性能分析和优化建议，帮助用户提升网页的加载速度和用户体验。                                                                                |
+| [**新增**] [WooRank](https://www.chgjx.com/sites/1073.html)                                                                     | WooRank 是一个全面的网站分析和搜索引擎优化（SEO）工具，旨在帮助用户提升网站的在线表现。                                                                                                     |
+| [**新增**] [Majestic](https://www.chgjx.com/sites/1067.html)                                                                    | 利用我们的链接智能数据制定反向链接策略，构建最强的 SEO 反向链接活动，以推动自然流量并提升您的排名。                                                                                                  |
+| [**新增**] [17CE](https://www.chgjx.com/sites/1026.html)                                                                        | 国内最专业最权威的实时网站测速、服务器监控、网络监控、IDC质量评测、PING,DNS,HTTP,CDN测试网站速度监控，遍及国内各省和国外的监测点，包括电信、网通、联通、移动、长城宽带、教育网等线路，测试网站在全国各地和海外的打开速度，全面的报表功能、对比功能、地图展示、柱型图展示等专业测速网站 |
+| [**新增**] [炸了么](https://www.chgjx.com/sites/1024.html)                                                                         | 全球1000+网络拨测节点，模拟用户访问域名/IP，实用小工具，运维必备                                                                                                                  |
 
 ## 网站社群
 
@@ -330,6 +333,7 @@
 
 | title                                                               | description                                                                      |
 |:--------------------------------------------------------------------|:---------------------------------------------------------------------------------|
+| [**新增**] [JoggAI](https://www.chgjx.com/sites/1386.html)            | 领先的人工智能商业生成器。Jogg 提供多样的模板选择和用户友好的界面。快速有效地制作你的视频广告。                               |
 | [**新增**] [Heygen](https://www.chgjx.com/sites/1345.html)            | 使用AI创建和翻译视频，AI数字人生成。                                                             |
 | [**新增**] [MoneyPrinterTurbo](https://www.chgjx.com/sites/1341.html) | 利用AI大模型，一键生成高清短视频。只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频。 |
 | [**新增**] [可灵AI](https://www.chgjx.com/sites/1303.html)              | 可灵AI 是一款用于创建富有想象力的图像和视频的工具，它基于最先进的生成式人工智能方法。                                     |
