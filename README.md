@@ -1,6 +1,6 @@
 # 出海工具箱
 
-> 本文档更新时间:2024-10-11 00:00:49，欢迎star。[**新增**] 表示7天内增加的。
+> 本文档更新时间:2024-10-12 00:00:59，欢迎star。[**新增**] 表示7天内增加的。
 
 [出海工具箱](http://www.chgjx.com)收集各类建站、SEO、选品、营销推广等工具，目前已收集**205**种服务/网站/工具(部分服务属于多个分类，未去重)，为广大独立开发者出海，跨境电商从业者，自媒体从业者服务，助力您取得成功！
 
@@ -39,13 +39,13 @@
 
 ## 其他服务
 
-| title                                                         | description                                                  |
-|:--------------------------------------------------------------|:-------------------------------------------------------------|
-| [**新增**] [Rava AI](https://www.chgjx.com/sites/1363.html)     | 你的营销copilot，初创企业所需的唯一营销平台                                    |
-|                                                               | 投资者就绪的路演幻灯片、产品发布策略、自动内容创作、市场掌控 —— 以及更多！！！！                   |
-| [**新增**] [MarketingAI](https://www.chgjx.com/sites/1355.html) | 获取一份为你的软件即服务（SaaS）量身定制的 15 页营销行动计划，其中包含如何获取用户的逐步指南以及投资回报率预测。 |
-| [**新增**] [Featurebase](https://www.chgjx.com/sites/1334.html) | 面向快速增长的初创公司的产品反馈和变更日志平台。简化反馈收集，识别有影响力的产品机会并通过构建正确的功能来更快地扩展。  |
-| [**新增**] [Twillot](https://www.chgjx.com/sites/1329.html)     | 一种多平台内容发布解决方案，旨在帮助用户简化内容分发流程，提高发布效率和扩大影响力。                   |
+| title                                                | description                                                  |
+|:-----------------------------------------------------|:-------------------------------------------------------------|
+| [Rava AI](https://www.chgjx.com/sites/1363.html)     | 你的营销copilot，初创企业所需的唯一营销平台                                    |
+|                                                      | 投资者就绪的路演幻灯片、产品发布策略、自动内容创作、市场掌控 —— 以及更多！！！！                   |
+| [MarketingAI](https://www.chgjx.com/sites/1355.html) | 获取一份为你的软件即服务（SaaS）量身定制的 15 页营销行动计划，其中包含如何获取用户的逐步指南以及投资回报率预测。 |
+| [Featurebase](https://www.chgjx.com/sites/1334.html) | 面向快速增长的初创公司的产品反馈和变更日志平台。简化反馈收集，识别有影响力的产品机会并通过构建正确的功能来更快地扩展。  |
+| [Twillot](https://www.chgjx.com/sites/1329.html)     | 一种多平台内容发布解决方案，旨在帮助用户简化内容分发流程，提高发布效率和扩大影响力。                   |
 
 ## 发现产品
 
@@ -223,9 +223,9 @@
 
 ## 用户触达
 
-| title                                                       | description                                           |
-|:------------------------------------------------------------|:------------------------------------------------------|
-| [**新增**] [Seamailer](https://www.chgjx.com/sites/1361.html) | 让您免费发送多达 12,000 封甚至更多的电子邮件，还可以帮助您自动化您的渠道和电子邮件以留住您的受众。 |
+| title                                              | description                                           |
+|:---------------------------------------------------|:------------------------------------------------------|
+| [Seamailer](https://www.chgjx.com/sites/1361.html) | 让您免费发送多达 12,000 封甚至更多的电子邮件，还可以帮助您自动化您的渠道和电子邮件以留住您的受众。 |
 
 ## 电商平台
 
@@ -240,38 +240,38 @@
 
 ## 社区资讯
 
-| title                                                                 | description                                                                               |
-|:----------------------------------------------------------------------|:------------------------------------------------------------------------------------------|
-| [**新增**] [Product Hunt Clones](https://www.chgjx.com/sites/1365.html) | 一站式发现所有Product Hunt克隆版                                                                    |
-| [**新增**] [Hacker News](https://www.chgjx.com/sites/1271.html)         | 允许用户提交和讨论各种与计算机科学、创业和科技相关的新闻和话题。用户可以在该网站上浏览最新的新闻、评论、提问和讨论，并与志同道合的人分享见解和知识                 |
-| [**新增**] [LINUX DO](https://www.chgjx.com/sites/1219.html)            | 一个技术论坛，现在讨论话题越来越多样化。                                                                      |
-| [**新增**] [V2EX](https://www.chgjx.com/sites/1217.html)                | 创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。                                                           |
-| [**新增**] [HelloGitHub](https://www.chgjx.com/sites/1215.html)         | HelloGitHub 是一个发现和分享有趣、入门级开源项目的平台。 希望大家能够在这里找到编程的快乐、 轻松搞定问题的技术方案、 大呼过瘾的开源神器， 顺其自然地开启开源之旅。 |
+| title                                                        | description                                                                               |
+|:-------------------------------------------------------------|:------------------------------------------------------------------------------------------|
+| [Product Hunt Clones](https://www.chgjx.com/sites/1365.html) | 一站式发现所有Product Hunt克隆版                                                                    |
+| [Hacker News](https://www.chgjx.com/sites/1271.html)         | 允许用户提交和讨论各种与计算机科学、创业和科技相关的新闻和话题。用户可以在该网站上浏览最新的新闻、评论、提问和讨论，并与志同道合的人分享见解和知识                 |
+| [LINUX DO](https://www.chgjx.com/sites/1219.html)            | 一个技术论坛，现在讨论话题越来越多样化。                                                                      |
+| [V2EX](https://www.chgjx.com/sites/1217.html)                | 创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。                                                           |
+| [HelloGitHub](https://www.chgjx.com/sites/1215.html)         | HelloGitHub 是一个发现和分享有趣、入门级开源项目的平台。 希望大家能够在这里找到编程的快乐、 轻松搞定问题的技术方案、 大呼过瘾的开源神器， 顺其自然地开启开源之旅。 |
 
 ## 社媒工具
 
-| title                                                             | description                                                                                                           |
-|:------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|
-| [**新增**] [Notifier](https://www.chgjx.com/sites/1367.html)        | 当你关注的关键词在 Reddit、Twitter 等平台上被提及的时候收到通知！                                                                              |
-| [**新增**] [NotionScheduler](https://www.chgjx.com/sites/1336.html) | 使用 Notion 安排社交媒体帖子                                                                                                    |
-| [**新增**] [Buffer](https://www.chgjx.com/sites/1332.html)          | 使用 Buffer 管理你的社交媒体，这样你就有更多时间用于你的业务。                                                                                   |
-| [**新增**] [Twillot](https://www.chgjx.com/sites/1329.html)         | 一种多平台内容发布解决方案，旨在帮助用户简化内容分发流程，提高发布效率和扩大影响力。                                                                            |
-| [**新增**] [Growfol](https://www.chgjx.com/sites/1323.html)         | 最好的Linkedin创作者工具，借助人工智能轻松创建高质量的Linkedin内容。只需轻轻一点，即可获得数百个帖子创意、由文章和 YouTube 视频生成的帖子。可以无限制地安排帖子发布。只需付出一小时的努力，就能生成一个月的内容。 |
-| [**新增**] [SocialSignal](https://www.chgjx.com/sites/1321.html)    | 把社交闲聊转化成增长，通过智能关键词追踪、AI回复和跨平台洞察（涵盖X、Reddit和Hacker News），实现互动增长。SocialSignal AI 在一个工具中帮助你的产品进行互动、回复、寻找潜在客户并跟踪提及内容。     |
-| [**新增**] [流光卡片](https://www.chgjx.com/sites/1299.html)            | 视觉优先的时代，仅靠简单的文字已经不足以引起注意。你想让信息更有冲击力、更具吸引力？流光卡片，让每一条信息都成为视觉焦点。                                                         |
-| [**新增**] [BuzzSumo](https://www.chgjx.com/sites/1200.html)        | 通过 BuzzSumo 深入了解您所在行业的内幕。从跟踪提及内容到寻找创意内容想法，我们都能为您提供支持。让我们使您的品牌成为热门话题。                                                  |
-| [**新增**] [Kalodata](https://www.chgjx.com/sites/1197.html)        | Kalodata 是一个专注于跨境电商数据分析的平台，旨在帮助卖家和品牌更好地理解和优化他们在全球市场的表现。                                                               |
-| [**新增**] [Sprout Social](https://www.chgjx.com/sites/1195.html)   | 用 Sprout Social 重新构想社交媒体如何促进您的业务增长。查看我们社交媒体管理工具的实际应用。今天就开始您自己的免费试用。                                                   |
-| [**新增**] [Hootsuite](https://www.chgjx.com/sites/1193.html)       | Hootsuite 是一款社交媒体管理工具，它将日程安排、内容创作、分析和社交倾听集中在一个地方。                                                                     |
-| [**新增**] [PowerAdSpy](https://www.chgjx.com/sites/1191.html)      | PowerAdSpy 是顶级的广告间谍工具之一，拥有最大的广告数据库，其中包含来自最热门社交媒体网络的数百万个广告。                                                            |
-| [**新增**] [AdsDog](https://www.chgjx.com/sites/1079.html)          | AdsDog 是一个专注于广告监测和分析的在线工具集，主要用于社交媒体广告和搜索引擎广告的监测和优化。                                                                   |
-| [**新增**] [FastMoss](https://www.chgjx.com/sites/993.html)         | FastMoss 为全球卖家、创作者和营销人员提供关于 TikTok 创作者、产品、店铺、广告、直播、视频、话题标签的详细数据洞察。                                                    |
-| [**新增**] [AdsMoss](https://www.chgjx.com/sites/991.html)          | AdsMoss 是一款的 TikTok 广告间谍软件，提供实时的 TikTok 广告数据，包括一个免费的 TikTok 广告间谍工具和用于 TikTok 广告的 TikTok 广告库                           |
-| [**新增**] [Gummysearch](https://www.chgjx.com/sites/989.html)      | GummySearch 是一款用于 Reddit 的受众研究工具。                                                                                     |
-| [**新增**] [Glances](https://www.chgjx.com/sites/986.html)          | 使用AI驱动洞察来帮助企业寻找早期采用者并优化市场情报的方法                                                                                        |
-| [**新增**] [Let Me Know When](https://www.chgjx.com/sites/984.html) | 可以轻松监测任何网站。获取有关价格变化、竞争对手更新、库存可用性、活动等的警报。                                                                              |
-| [**新增**] [SocialBu](https://www.chgjx.com/sites/982.html)         | SocialBu 是一款易于使用的社交媒体管理和自动化工具。可管理并自动化您在 Facebook、Twitter、Instagram 和 LinkedIn 等平台上的社交媒体。                              |
-| [**新增**] [F5Bot](https://www.chgjx.com/sites/981.html)            | 当你在 Reddit、Hacker News 或 Lobsters 上被提及到时，会收到电子邮件。F5Bot 是免费的社交媒体监测工具。                                                  |
+| title                                                    | description                                                                                                           |
+|:---------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|
+| [Notifier](https://www.chgjx.com/sites/1367.html)        | 当你关注的关键词在 Reddit、Twitter 等平台上被提及的时候收到通知！                                                                              |
+| [NotionScheduler](https://www.chgjx.com/sites/1336.html) | 使用 Notion 安排社交媒体帖子                                                                                                    |
+| [Buffer](https://www.chgjx.com/sites/1332.html)          | 使用 Buffer 管理你的社交媒体，这样你就有更多时间用于你的业务。                                                                                   |
+| [Twillot](https://www.chgjx.com/sites/1329.html)         | 一种多平台内容发布解决方案，旨在帮助用户简化内容分发流程，提高发布效率和扩大影响力。                                                                            |
+| [Growfol](https://www.chgjx.com/sites/1323.html)         | 最好的Linkedin创作者工具，借助人工智能轻松创建高质量的Linkedin内容。只需轻轻一点，即可获得数百个帖子创意、由文章和 YouTube 视频生成的帖子。可以无限制地安排帖子发布。只需付出一小时的努力，就能生成一个月的内容。 |
+| [SocialSignal](https://www.chgjx.com/sites/1321.html)    | 把社交闲聊转化成增长，通过智能关键词追踪、AI回复和跨平台洞察（涵盖X、Reddit和Hacker News），实现互动增长。SocialSignal AI 在一个工具中帮助你的产品进行互动、回复、寻找潜在客户并跟踪提及内容。     |
+| [流光卡片](https://www.chgjx.com/sites/1299.html)            | 视觉优先的时代，仅靠简单的文字已经不足以引起注意。你想让信息更有冲击力、更具吸引力？流光卡片，让每一条信息都成为视觉焦点。                                                         |
+| [BuzzSumo](https://www.chgjx.com/sites/1200.html)        | 通过 BuzzSumo 深入了解您所在行业的内幕。从跟踪提及内容到寻找创意内容想法，我们都能为您提供支持。让我们使您的品牌成为热门话题。                                                  |
+| [Kalodata](https://www.chgjx.com/sites/1197.html)        | Kalodata 是一个专注于跨境电商数据分析的平台，旨在帮助卖家和品牌更好地理解和优化他们在全球市场的表现。                                                               |
+| [Sprout Social](https://www.chgjx.com/sites/1195.html)   | 用 Sprout Social 重新构想社交媒体如何促进您的业务增长。查看我们社交媒体管理工具的实际应用。今天就开始您自己的免费试用。                                                   |
+| [Hootsuite](https://www.chgjx.com/sites/1193.html)       | Hootsuite 是一款社交媒体管理工具，它将日程安排、内容创作、分析和社交倾听集中在一个地方。                                                                     |
+| [PowerAdSpy](https://www.chgjx.com/sites/1191.html)      | PowerAdSpy 是顶级的广告间谍工具之一，拥有最大的广告数据库，其中包含来自最热门社交媒体网络的数百万个广告。                                                            |
+| [AdsDog](https://www.chgjx.com/sites/1079.html)          | AdsDog 是一个专注于广告监测和分析的在线工具集，主要用于社交媒体广告和搜索引擎广告的监测和优化。                                                                   |
+| [FastMoss](https://www.chgjx.com/sites/993.html)         | FastMoss 为全球卖家、创作者和营销人员提供关于 TikTok 创作者、产品、店铺、广告、直播、视频、话题标签的详细数据洞察。                                                    |
+| [AdsMoss](https://www.chgjx.com/sites/991.html)          | AdsMoss 是一款的 TikTok 广告间谍软件，提供实时的 TikTok 广告数据，包括一个免费的 TikTok 广告间谍工具和用于 TikTok 广告的 TikTok 广告库                           |
+| [Gummysearch](https://www.chgjx.com/sites/989.html)      | GummySearch 是一款用于 Reddit 的受众研究工具。                                                                                     |
+| [Glances](https://www.chgjx.com/sites/986.html)          | 使用AI驱动洞察来帮助企业寻找早期采用者并优化市场情报的方法                                                                                        |
+| [Let Me Know When](https://www.chgjx.com/sites/984.html) | 可以轻松监测任何网站。获取有关价格变化、竞争对手更新、库存可用性、活动等的警报。                                                                              |
+| [SocialBu](https://www.chgjx.com/sites/982.html)         | SocialBu 是一款易于使用的社交媒体管理和自动化工具。可管理并自动化您在 Facebook、Twitter、Instagram 和 LinkedIn 等平台上的社交媒体。                              |
+| [F5Bot](https://www.chgjx.com/sites/981.html)            | 当你在 Reddit、Hacker News 或 Lobsters 上被提及到时，会收到电子邮件。F5Bot 是免费的社交媒体监测工具。                                                  |
 
 ## 社媒平台
 
