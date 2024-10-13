@@ -1,6 +1,6 @@
 # 出海工具箱
 
-> 本文档更新时间:2024-10-13 00:00:56，欢迎star。[**新增**] 表示7天内增加的。
+> 本文档更新时间:2024-10-14 00:00:56，欢迎star。[**新增**] 表示7天内增加的。
 
 [出海工具箱](http://www.chgjx.com)收集各类建站、SEO、选品、营销推广等工具，目前已收集**205**种服务/网站/工具(部分服务属于多个分类，未去重)，为广大独立开发者出海，跨境电商从业者，自媒体从业者服务，助力您取得成功！
 
@@ -84,15 +84,15 @@
 
 ## 基础设施
 
-| title                                                       | description                                                               |
-|:------------------------------------------------------------|:--------------------------------------------------------------------------|
-| [**新增**] [CLOUDCONE](https://www.chgjx.com/sites/1374.html) | CloudCone是一个性价比非常高的VPS供应商，经常会有优惠活动，低配机型大概10美金/年                           |
-| [**新增**] [Namecheap](https://www.chgjx.com/sites/972.html)  | 购买便宜的域名并享受 24/7 支持。有超过 1800 万个域名在管理之下，值得信赖。                               |
-| [**新增**] [RackNerd](https://www.chgjx.com/sites/969.html)   | RackNerd 提供多种网络服务，包括虚拟专用服务器、混合服务器、专用服务器和托管服务等，其服务器部署在全球多个地点，致力于提供基础设施稳定性。 |
-| [**新增**] [AWS 云服务](https://www.chgjx.com/sites/967.html)    | Amazon Web Services 提供的云计算服务可靠、可扩展且费用合理。免费加入，只需按使用量付费。                    |
-| [**新增**] [Netlify](https://www.chgjx.com/sites/965.html)    | 借助 Netlify 实现可扩展、可组合的 Web 架构的速度、敏捷性和性能。立即探索可组合的 Web 平台！                   |
-| [**新增**] [Vercel](https://www.chgjx.com/sites/963.html)     | Vercel 的前端云为开发者提供框架、工作流和基础设施，以构建更快、更个性化的网络。                               |
-| [**新增**] [Cloudflare](https://www.chgjx.com/sites/961.html) | 号称互联网赛博佛祖，其提供了众多可免费使用的服务，包括CDN，对象存储，域名，边缘计算等，非常推荐！                        |
+| title                                              | description                                                               |
+|:---------------------------------------------------|:--------------------------------------------------------------------------|
+| [CLOUDCONE](https://www.chgjx.com/sites/1374.html) | CloudCone是一个性价比非常高的VPS供应商，经常会有优惠活动，低配机型大概10美金/年                           |
+| [Namecheap](https://www.chgjx.com/sites/972.html)  | 购买便宜的域名并享受 24/7 支持。有超过 1800 万个域名在管理之下，值得信赖。                               |
+| [RackNerd](https://www.chgjx.com/sites/969.html)   | RackNerd 提供多种网络服务，包括虚拟专用服务器、混合服务器、专用服务器和托管服务等，其服务器部署在全球多个地点，致力于提供基础设施稳定性。 |
+| [AWS 云服务](https://www.chgjx.com/sites/967.html)    | Amazon Web Services 提供的云计算服务可靠、可扩展且费用合理。免费加入，只需按使用量付费。                    |
+| [Netlify](https://www.chgjx.com/sites/965.html)    | 借助 Netlify 实现可扩展、可组合的 Web 架构的速度、敏捷性和性能。立即探索可组合的 Web 平台！                   |
+| [Vercel](https://www.chgjx.com/sites/963.html)     | Vercel 的前端云为开发者提供框架、工作流和基础设施，以构建更快、更个性化的网络。                               |
+| [Cloudflare](https://www.chgjx.com/sites/961.html) | 号称互联网赛博佛祖，其提供了众多可免费使用的服务，包括CDN，对象存储，域名，边缘计算等，非常推荐！                        |
 
 ## 头脑风暴
 
@@ -146,15 +146,15 @@
 
 ## 建站平台
 
-| title                                                               | description                                                                                                                         |
-|:--------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|
-| [**新增**] [bolt.new](https://www.chgjx.com/sites/1380.html)          | 提示、运行、编辑和部署 Web 应用                                                                                                                  |
-| [**新增**] [elog:开放式跨平台博客解决方案](https://www.chgjx.com/sites/1359.html) | Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等) - LetTTGACO/elog |
-| [**新增**] [strapi/strapi](https://www.chgjx.com/sites/1325.html)     | Strapi 是领先的开源无头内容管理系统。它 100% 使用 JavaScript/TypeScript，完全可定制且以开发者为优先。——strapi/strapi。                                                |
-| [**新增**] [Zeabur](https://www.chgjx.com/sites/1279.html)            | 一个可以帮助你一键部署服务的平台，无论你使用什么编程语言，无论你使用什么框架。                                                                                             |
-| [**新增**] [Webflow](https://www.chgjx.com/sites/1014.html)           | 个具有强大创意功能的平台，包括设计生成代码、受众多领先组织信任、可视化可组合的内容管理系统、丰富的应用连接、协作功能、SEO 优化、代码本地化以及企业版的强大特性等。                                                 |
-| [**新增**] [ShipFast](https://www.chgjx.com/sites/977.html)           | 提供所有你所需功能的 NextJS 模板，能让你的产品展示在客户面前。从想法到产品只需 5 分钟。                                                                                   |
-| [**新增**] [Unicorn Platform](https://www.chgjx.com/sites/959.html)   | 易于使用的AI驱动的拖放式网站、软件即服务（SaaS）登陆页面、目录和博客构建器，适用于初创企业、移动应用和软件即服务。100%无需代码，无需设计技能。                                                        |
+| title                                                      | description                                                                                                                         |
+|:-----------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|
+| [bolt.new](https://www.chgjx.com/sites/1380.html)          | 提示、运行、编辑和部署 Web 应用                                                                                                                  |
+| [elog:开放式跨平台博客解决方案](https://www.chgjx.com/sites/1359.html) | Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等) - LetTTGACO/elog |
+| [strapi/strapi](https://www.chgjx.com/sites/1325.html)     | Strapi 是领先的开源无头内容管理系统。它 100% 使用 JavaScript/TypeScript，完全可定制且以开发者为优先。——strapi/strapi。                                                |
+| [Zeabur](https://www.chgjx.com/sites/1279.html)            | 一个可以帮助你一键部署服务的平台，无论你使用什么编程语言，无论你使用什么框架。                                                                                             |
+| [Webflow](https://www.chgjx.com/sites/1014.html)           | 个具有强大创意功能的平台，包括设计生成代码、受众多领先组织信任、可视化可组合的内容管理系统、丰富的应用连接、协作功能、SEO 优化、代码本地化以及企业版的强大特性等。                                                 |
+| [ShipFast](https://www.chgjx.com/sites/977.html)           | 提供所有你所需功能的 NextJS 模板，能让你的产品展示在客户面前。从想法到产品只需 5 分钟。                                                                                   |
+| [Unicorn Platform](https://www.chgjx.com/sites/959.html)   | 易于使用的AI驱动的拖放式网站、软件即服务（SaaS）登陆页面、目录和博客构建器，适用于初创企业、移动应用和软件即服务。100%无需代码，无需设计技能。                                                        |
 
 ## 建站资源
 
