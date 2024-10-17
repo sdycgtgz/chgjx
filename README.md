@@ -1,8 +1,8 @@
 # 出海工具箱
 
-> 本文档更新时间:2024-10-17 00:00:46，欢迎star。[**新增**] 表示7天内增加的。
+> 本文档更新时间:2024-10-18 00:01:02，欢迎star。[**新增**] 表示7天内增加的。
 
-[出海工具箱](http://www.chgjx.com)收集各类建站、SEO、选品、营销推广等工具，目前已收集**205**种服务/网站/工具(部分服务属于多个分类，未去重)，为广大独立开发者出海，跨境电商从业者，自媒体从业者服务，助力您取得成功！
+[出海工具箱](http://www.chgjx.com)收集各类建站、SEO、选品、营销推广等工具，目前已收集**212**种服务/网站/工具(部分服务属于多个分类，未去重)，为广大独立开发者出海，跨境电商从业者，自媒体从业者服务，助力您取得成功！
 
 ## Dropshipping
 
@@ -39,18 +39,20 @@
 
 ## 其他服务
 
-| title                                                | description                                                  |
-|:-----------------------------------------------------|:-------------------------------------------------------------|
-| [Rava AI](https://www.chgjx.com/sites/1363.html)     | 你的营销copilot，初创企业所需的唯一营销平台                                    |
-|                                                      | 投资者就绪的路演幻灯片、产品发布策略、自动内容创作、市场掌控 —— 以及更多！！！！                   |
-| [MarketingAI](https://www.chgjx.com/sites/1355.html) | 获取一份为你的软件即服务（SaaS）量身定制的 15 页营销行动计划，其中包含如何获取用户的逐步指南以及投资回报率预测。 |
-| [Featurebase](https://www.chgjx.com/sites/1334.html) | 面向快速增长的初创公司的产品反馈和变更日志平台。简化反馈收集，识别有影响力的产品机会并通过构建正确的功能来更快地扩展。  |
-| [Twillot](https://www.chgjx.com/sites/1329.html)     | 一种多平台内容发布解决方案，旨在帮助用户简化内容分发流程，提高发布效率和扩大影响力。                   |
+| title                                                            | description                                                  |
+|:-----------------------------------------------------------------|:-------------------------------------------------------------|
+| [**新增**] [PHAlternatives](https://www.chgjx.com/sites/1394.html) | 发现 Product Hunt 的替代平台，你可以找到一些提交你的产品的网站。                      |
+| [**新增**] [Rava AI](https://www.chgjx.com/sites/1363.html)        | 你的营销copilot，初创企业所需的唯一营销平台                                    |
+|                                                                  | 投资者就绪的路演幻灯片、产品发布策略、自动内容创作、市场掌控 —— 以及更多！！！！                   |
+| [**新增**] [MarketingAI](https://www.chgjx.com/sites/1355.html)    | 获取一份为你的软件即服务（SaaS）量身定制的 15 页营销行动计划，其中包含如何获取用户的逐步指南以及投资回报率预测。 |
+| [**新增**] [Featurebase](https://www.chgjx.com/sites/1334.html)    | 面向快速增长的初创公司的产品反馈和变更日志平台。简化反馈收集，识别有影响力的产品机会并通过构建正确的功能来更快地扩展。  |
+| [**新增**] [Twillot](https://www.chgjx.com/sites/1329.html)        | 一种多平台内容发布解决方案，旨在帮助用户简化内容分发流程，提高发布效率和扩大影响力。                   |
 
 ## 发现产品
 
 | title                                                                 | description                                                                               |
 |:----------------------------------------------------------------------|:------------------------------------------------------------------------------------------|
+| [**新增**] [GoodsFox Fashion](https://www.chgjx.com/sites/1398.html)    | 发现最新时尚潮流的首选平台。搜索数百万种全球电子商务产品，寻找灵感，简化您的设计流程，并保持领先地位。非常适合设计师、买家、卖家和品牌。                      |
 | [**新增**] [Micro SaaS Ideas](https://www.chgjx.com/sites/1392.html)    | 获取经过市场验证的 SaaS 机会清单，以启动你的下一个业务。我们涵盖了最新趋势、有利可图的细分市场以及针对数字创业者的可行建议。                         |
 | [**新增**] [Product Hunt Clones](https://www.chgjx.com/sites/1365.html) | 一站式发现所有Product Hunt克隆版                                                                    |
 | [**新增**] [Gumroad](https://www.chgjx.com/sites/1286.html)             | Gumroad是一个专为创作者设计的电子商务平台，它允许创作者直接向他们的受众销售数字商品、实物商品以及订阅服务。                                 |
@@ -96,13 +98,13 @@
 
 ## 头脑风暴
 
-| title                                                                   | description                                                                                         |
-|:------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|
-| [**新增**] [Micro SaaS Ideas](https://www.chgjx.com/sites/1392.html)      | 获取经过市场验证的 SaaS 机会清单，以启动你的下一个业务。我们涵盖了最新趋势、有利可图的细分市场以及针对数字创业者的可行建议。                                   |
-| [**新增**] [Landing Page Examples](https://www.chgjx.com/sites/1390.html) | 根据你的喜好找到最适合的着陆页(Landing page)以获取设计灵感。                                                               |
-| [**新增**] [Buildpad](https://www.chgjx.com/sites/1347.html)              | 将你的商业想法转化为值得付费的产品。Buildpad 会引导你完成每一步，从想法验证到扩大你的业务规模，在每个环节都提供指导。                                     |
-| [**新增**] [Hacker News](https://www.chgjx.com/sites/1271.html)           | 允许用户提交和讨论各种与计算机科学、创业和科技相关的新闻和话题。用户可以在该网站上浏览最新的新闻、评论、提问和讨论，并与志同道合的人分享见解和知识                           |
-| [**新增**] [出海去孵化器](https://www.chgjx.com/sites/1032.html)                | 出海去孵化器是一个赋能独立创客、一人公司和小微团队的新型社区孵化器，助您实现全球淘金的目标。与超过 4000 位独立开发者们一起出海淘金，加入我们参与孵化出海项目 | 旁听出海经验 | 寻找出海伙伴 |
+| title                                                          | description                                                                                         |
+|:---------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|
+| [Micro SaaS Ideas](https://www.chgjx.com/sites/1392.html)      | 获取经过市场验证的 SaaS 机会清单，以启动你的下一个业务。我们涵盖了最新趋势、有利可图的细分市场以及针对数字创业者的可行建议。                                   |
+| [Landing Page Examples](https://www.chgjx.com/sites/1390.html) | 根据你的喜好找到最适合的着陆页(Landing page)以获取设计灵感。                                                               |
+| [Buildpad](https://www.chgjx.com/sites/1347.html)              | 将你的商业想法转化为值得付费的产品。Buildpad 会引导你完成每一步，从想法验证到扩大你的业务规模，在每个环节都提供指导。                                     |
+| [Hacker News](https://www.chgjx.com/sites/1271.html)           | 允许用户提交和讨论各种与计算机科学、创业和科技相关的新闻和话题。用户可以在该网站上浏览最新的新闻、评论、提问和讨论，并与志同道合的人分享见解和知识                           |
+| [出海去孵化器](https://www.chgjx.com/sites/1032.html)                | 出海去孵化器是一个赋能独立创客、一人公司和小微团队的新型社区孵化器，助您实现全球淘金的目标。与超过 4000 位独立开发者们一起出海淘金，加入我们参与孵化出海项目 | 旁听出海经验 | 寻找出海伙伴 |
 
 ## 小报童精选
 
@@ -133,28 +135,30 @@
 
 ## 广告联盟
 
-| title                                                  | description                                                                                                           |
-|:-------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|
-| [PartnerStack](https://www.chgjx.com/sites/1172.html)  | PartnerStack 是一个领先的合作伙伴营销和联盟管理平台，旨在帮助企业通过合作伙伴网络实现业务增长。                                                                |
-| [FirstPromoter](https://www.chgjx.com/sites/1168.html) | 使用 FirstPromoter 来推动你的订阅业务增长，它是一款现代且可靠的联盟营销跟踪工具。设置简单，扩展性强。可与 Stripe、Paddle、Recurly、Braintree、Chargebee 或我们的 API 无缝集成。 |
-| [Leaddyno](https://www.chgjx.com/sites/1166.html)      | LeadDyno 是一个简单易用的联盟营销平台，旨在帮助电子商务企业轻松管理和扩展其联盟营销计划。                                                                     |
-| [Tapfiliate](https://www.chgjx.com/sites/1036.html)    | Tapfiliate是一款为在线服务、电子商务、SaaS设计的联盟营销软件。将有限的预算转化为十倍的增长：在几分钟内创建、跟踪和扩展你的联盟计划。今天就开始免费试用吧！                                  |
-| [Tolt](https://www.chgjx.com/sites/1034.html)          | 帮助 SaaS 企业通过联盟营销实现增长。                                                                                                 |
-| [Rewardful](https://www.chgjx.com/sites/1030.html)     | 一个专注于帮助企业通过联盟营销（Affiliate Marketing）来推动增长的平台。                                                                         |
-| [CJ.com](https://www.chgjx.com/sites/1028.html)        | CJ 是全球最大、最成熟的联盟营销网络，旨在帮助您实现智能、可扩展和可持续的增长。                                                                             |
-| [Google AdSense](https://www.chgjx.com/sites/995.html) | 借助 Google AdSense，让网站创收变现。我们会为您优化广告尺寸，让用户更有可能看到并点击您网站上的广告。                                                            |
+| title                                                              | description                                                                                                           |
+|:-------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|
+| [**新增**] [Stuff to Sponsor](https://www.chgjx.com/sites/1400.html) | 发现购买广告位的顶级站点。探索特定领域的平台，为你的品牌确保优质广告位。                                                                                  |
+| [**新增**] [PartnerStack](https://www.chgjx.com/sites/1172.html)     | PartnerStack 是一个领先的合作伙伴营销和联盟管理平台，旨在帮助企业通过合作伙伴网络实现业务增长。                                                                |
+| [**新增**] [FirstPromoter](https://www.chgjx.com/sites/1168.html)    | 使用 FirstPromoter 来推动你的订阅业务增长，它是一款现代且可靠的联盟营销跟踪工具。设置简单，扩展性强。可与 Stripe、Paddle、Recurly、Braintree、Chargebee 或我们的 API 无缝集成。 |
+| [**新增**] [Leaddyno](https://www.chgjx.com/sites/1166.html)         | LeadDyno 是一个简单易用的联盟营销平台，旨在帮助电子商务企业轻松管理和扩展其联盟营销计划。                                                                     |
+| [**新增**] [Tapfiliate](https://www.chgjx.com/sites/1036.html)       | Tapfiliate是一款为在线服务、电子商务、SaaS设计的联盟营销软件。将有限的预算转化为十倍的增长：在几分钟内创建、跟踪和扩展你的联盟计划。今天就开始免费试用吧！                                  |
+| [**新增**] [Tolt](https://www.chgjx.com/sites/1034.html)             | 帮助 SaaS 企业通过联盟营销实现增长。                                                                                                 |
+| [**新增**] [Rewardful](https://www.chgjx.com/sites/1030.html)        | 一个专注于帮助企业通过联盟营销（Affiliate Marketing）来推动增长的平台。                                                                         |
+| [**新增**] [CJ.com](https://www.chgjx.com/sites/1028.html)           | CJ 是全球最大、最成熟的联盟营销网络，旨在帮助您实现智能、可扩展和可持续的增长。                                                                             |
+| [**新增**] [Google AdSense](https://www.chgjx.com/sites/995.html)    | 借助 Google AdSense，让网站创收变现。我们会为您优化广告尺寸，让用户更有可能看到并点击您网站上的广告。                                                            |
 
 ## 建站平台
 
-| title                                                      | description                                                                                                                         |
-|:-----------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|
-| [bolt.new](https://www.chgjx.com/sites/1380.html)          | 提示、运行、编辑和部署 Web 应用                                                                                                                  |
-| [elog:开放式跨平台博客解决方案](https://www.chgjx.com/sites/1359.html) | Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等) - LetTTGACO/elog |
-| [strapi/strapi](https://www.chgjx.com/sites/1325.html)     | Strapi 是领先的开源无头内容管理系统。它 100% 使用 JavaScript/TypeScript，完全可定制且以开发者为优先。——strapi/strapi。                                                |
-| [Zeabur](https://www.chgjx.com/sites/1279.html)            | 一个可以帮助你一键部署服务的平台，无论你使用什么编程语言，无论你使用什么框架。                                                                                             |
-| [Webflow](https://www.chgjx.com/sites/1014.html)           | 个具有强大创意功能的平台，包括设计生成代码、受众多领先组织信任、可视化可组合的内容管理系统、丰富的应用连接、协作功能、SEO 优化、代码本地化以及企业版的强大特性等。                                                 |
-| [ShipFast](https://www.chgjx.com/sites/977.html)           | 提供所有你所需功能的 NextJS 模板，能让你的产品展示在客户面前。从想法到产品只需 5 分钟。                                                                                   |
-| [Unicorn Platform](https://www.chgjx.com/sites/959.html)   | 易于使用的AI驱动的拖放式网站、软件即服务（SaaS）登陆页面、目录和博客构建器，适用于初创企业、移动应用和软件即服务。100%无需代码，无需设计技能。                                                        |
+| title                                                               | description                                                                                                                         |
+|:--------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|
+| [**新增**] [NoCodeXport](https://www.chgjx.com/sites/1402.html)       | 让你摆脱无代码网站构建器的束缚。                                                                                                                    |
+| [**新增**] [bolt.new](https://www.chgjx.com/sites/1380.html)          | 提示、运行、编辑和部署 Web 应用                                                                                                                  |
+| [**新增**] [elog:开放式跨平台博客解决方案](https://www.chgjx.com/sites/1359.html) | Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等) - LetTTGACO/elog |
+| [**新增**] [strapi/strapi](https://www.chgjx.com/sites/1325.html)     | Strapi 是领先的开源无头内容管理系统。它 100% 使用 JavaScript/TypeScript，完全可定制且以开发者为优先。——strapi/strapi。                                                |
+| [**新增**] [Zeabur](https://www.chgjx.com/sites/1279.html)            | 一个可以帮助你一键部署服务的平台，无论你使用什么编程语言，无论你使用什么框架。                                                                                             |
+| [**新增**] [Webflow](https://www.chgjx.com/sites/1014.html)           | 个具有强大创意功能的平台，包括设计生成代码、受众多领先组织信任、可视化可组合的内容管理系统、丰富的应用连接、协作功能、SEO 优化、代码本地化以及企业版的强大特性等。                                                 |
+| [**新增**] [ShipFast](https://www.chgjx.com/sites/977.html)           | 提供所有你所需功能的 NextJS 模板，能让你的产品展示在客户面前。从想法到产品只需 5 分钟。                                                                                   |
+| [**新增**] [Unicorn Platform](https://www.chgjx.com/sites/959.html)   | 易于使用的AI驱动的拖放式网站、软件即服务（SaaS）登陆页面、目录和博客构建器，适用于初创企业、移动应用和软件即服务。100%无需代码，无需设计技能。                                                        |
 
 ## 建站资源
 
@@ -286,29 +290,31 @@
 
 ## 综合工具
 
-| title                                                 | description                                                                                                                         |
-|:------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|
-| [EasyYa易芽](https://www.chgjx.com/sites/1207.html)     | EasyYa易芽，致力于成为全球领先的跨境供应链管理服务平台。为跨境电商卖家企业提供从大数据选品运营分析到跨境电商精品采购、供应链管理的出海全周期服务，利用自身数据优势，帮助卖家轻松实现亚马逊选品，竞争对手分析、市场数据分析等操作，解决跨境电商店铺运营常见难题。 |
-| [Helium 10](https://www.chgjx.com/sites/1202.html)    | 如果您正在寻找市场上最好的亚马逊卖家软件，那么今天就在线查看 Helium 10 的强大功能吧！                                                                                    |
-| [Jungle Scout](https://www.chgjx.com/sites/1187.html) | 一个领先的一站式亚马逊销售平台，其使命是提供数据和见解，帮助企业家和品牌发展业务。                                                                                           |
-| [Mangools](https://www.chgjx.com/sites/1110.html)     | Mangools 是一个简单但强大的 SEO 套件，专为高效的 SEO 工作流程而设计。深受初学者喜爱，被专业人士信赖。免费提升你的 SEO！                                                             |
-| [Positional](https://www.chgjx.com/sites/1077.html)   | Positionly 是一个功能强大的SEO和网站分析工具集，提供广泛的关键词排名追踪、SEO优化、内容优化、竞争分析和反向链接分析等功能。                                                              |
-| [SE Ranking](https://www.chgjx.com/sites/1075.html)   | SE Ranking 是一个可靠的 SEO 平台，可用于解决任何 SEO 任务。准确的数据、直观的仪表板和轻松的报告，价格实惠。                                                                    |
-| [WooRank](https://www.chgjx.com/sites/1073.html)      | WooRank 是一个全面的网站分析和搜索引擎优化（SEO）工具，旨在帮助用户提升网站的在线表现。                                                                                   |
-| [Majestic](https://www.chgjx.com/sites/1067.html)     | 利用我们的链接智能数据制定反向链接策略，构建最强的 SEO 反向链接活动，以推动自然流量并提升您的排名。                                                                                |
-| [Moz](https://www.chgjx.com/sites/1063.html)          | 由全球最大的 SEO 社区支持，Moz 开发的工具使 SEO、内容营销、市场研究、数字公关和本地 SEO 变得轻松。今天就开始您的 30 天免费试用吧！                                                        |
-| [SEOquake](https://www.chgjx.com/sites/1061.html)     | SEOquake 是一款免费的浏览器插件，它为您提供特定页面的关键 SEO 指标，以及其他有用的工具，如 SEO 审计等。                                                                       |
-| [Semrush](https://www.chgjx.com/sites/1059.html)      | 使用 55 种用于 SEO、PPC、内容、社交媒体、竞争研究等的工具，让您的业务在网上可见。                                                                                      |
-| [Ahrefs](https://www.chgjx.com/sites/1057.html)       | 一个功能强大的在线工具集，主要用于搜索引擎优化（SEO）和内容营销。                                                                                                  |
-| [AITDK](https://www.chgjx.com/sites/1051.html)        | 探索免费的 AI SEO 工具和生成器，以增强您的搜索优化策略。借助 AI 技术提升您网站的可见性和排名。                                                                               |
+| title                                                          | description                                                                                                                         |
+|:---------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|
+| [**新增**] [Rankfast](https://www.chgjx.com/sites/1403.html)     | 停止为反向链接数据支付高额费用。分析指向你或你竞争对手网站的所有反向链接，并建立强大的反向链接档案。                                                                                  |
+| [**新增**] [EasyYa易芽](https://www.chgjx.com/sites/1207.html)     | EasyYa易芽，致力于成为全球领先的跨境供应链管理服务平台。为跨境电商卖家企业提供从大数据选品运营分析到跨境电商精品采购、供应链管理的出海全周期服务，利用自身数据优势，帮助卖家轻松实现亚马逊选品，竞争对手分析、市场数据分析等操作，解决跨境电商店铺运营常见难题。 |
+| [**新增**] [Helium 10](https://www.chgjx.com/sites/1202.html)    | 如果您正在寻找市场上最好的亚马逊卖家软件，那么今天就在线查看 Helium 10 的强大功能吧！                                                                                    |
+| [**新增**] [Jungle Scout](https://www.chgjx.com/sites/1187.html) | 一个领先的一站式亚马逊销售平台，其使命是提供数据和见解，帮助企业家和品牌发展业务。                                                                                           |
+| [**新增**] [Mangools](https://www.chgjx.com/sites/1110.html)     | Mangools 是一个简单但强大的 SEO 套件，专为高效的 SEO 工作流程而设计。深受初学者喜爱，被专业人士信赖。免费提升你的 SEO！                                                             |
+| [**新增**] [Positional](https://www.chgjx.com/sites/1077.html)   | Positionly 是一个功能强大的SEO和网站分析工具集，提供广泛的关键词排名追踪、SEO优化、内容优化、竞争分析和反向链接分析等功能。                                                              |
+| [**新增**] [SE Ranking](https://www.chgjx.com/sites/1075.html)   | SE Ranking 是一个可靠的 SEO 平台，可用于解决任何 SEO 任务。准确的数据、直观的仪表板和轻松的报告，价格实惠。                                                                    |
+| [**新增**] [WooRank](https://www.chgjx.com/sites/1073.html)      | WooRank 是一个全面的网站分析和搜索引擎优化（SEO）工具，旨在帮助用户提升网站的在线表现。                                                                                   |
+| [**新增**] [Majestic](https://www.chgjx.com/sites/1067.html)     | 利用我们的链接智能数据制定反向链接策略，构建最强的 SEO 反向链接活动，以推动自然流量并提升您的排名。                                                                                |
+| [**新增**] [Moz](https://www.chgjx.com/sites/1063.html)          | 由全球最大的 SEO 社区支持，Moz 开发的工具使 SEO、内容营销、市场研究、数字公关和本地 SEO 变得轻松。今天就开始您的 30 天免费试用吧！                                                        |
+| [**新增**] [SEOquake](https://www.chgjx.com/sites/1061.html)     | SEOquake 是一款免费的浏览器插件，它为您提供特定页面的关键 SEO 指标，以及其他有用的工具，如 SEO 审计等。                                                                       |
+| [**新增**] [Semrush](https://www.chgjx.com/sites/1059.html)      | 使用 55 种用于 SEO、PPC、内容、社交媒体、竞争研究等的工具，让您的业务在网上可见。                                                                                      |
+| [**新增**] [Ahrefs](https://www.chgjx.com/sites/1057.html)       | 一个功能强大的在线工具集，主要用于搜索引擎优化（SEO）和内容营销。                                                                                                  |
+| [**新增**] [AITDK](https://www.chgjx.com/sites/1051.html)        | 探索免费的 AI SEO 工具和生成器，以增强您的搜索优化策略。借助 AI 技术提升您网站的可见性和排名。                                                                               |
 
 ## 编程工具
 
-| title                                                       | description                                                                                                          |
-|:------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|
-| [Cursor](https://www.chgjx.com/sites/1007.html)             | 基于AI的代码编辑器                                                                                                           |
-| [JetBrains](https://www.chgjx.com/sites/1005.html)          | JetBrains 是一家前沿的软件供应商，专注于创建智能开发工具，包括 IntelliJ IDEA—— 领先的 Java 集成开发环境，以及 Kotlin 编程语言                                  |
-| [Visual Studio Code](https://www.chgjx.com/sites/1003.html) | Visual Studio Code 是一款重新定义并优化的代码编辑器，用于构建和调试现代网络和云应用程序。Visual Studio Code 是免费的，并且可在你喜欢的平台上使用 ——Linux、macOS 和 Windows。 |
+| title                                                                | description                                                                                                          |
+|:---------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|
+| [**新增**] [Posthog](https://www.chgjx.com/sites/1396.html)            | PostHog 是一个为开发者打造的集产品分析、功能标志、会话回放、实验和调查于一体的平台。                                                                       |
+| [**新增**] [Cursor](https://www.chgjx.com/sites/1007.html)             | 基于AI的代码编辑器                                                                                                           |
+| [**新增**] [JetBrains](https://www.chgjx.com/sites/1005.html)          | JetBrains 是一家前沿的软件供应商，专注于创建智能开发工具，包括 IntelliJ IDEA—— 领先的 Java 集成开发环境，以及 Kotlin 编程语言                                  |
+| [**新增**] [Visual Studio Code](https://www.chgjx.com/sites/1003.html) | Visual Studio Code 是一款重新定义并优化的代码编辑器，用于构建和调试现代网络和云应用程序。Visual Studio Code 是免费的，并且可在你喜欢的平台上使用 ——Linux、macOS 和 Windows。 |
 
 ## 网站优化
 
@@ -349,25 +355,26 @@
 
 ## 选品
 
-| title                                                       | description                                                                                                                                          |
-|:------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Sorftime Save 网页插件](https://www.chgjx.com/sites/1204.html) | 全球亚马逊卖家标配工具 Sorftime Save。支持亚马逊全球14大站点。卖家浏览Amazon Best Sellers时直接可见12张亚马逊市场报告，一键看懂市场竞争性、市场需求趋势、竞品分析                                                  |
-| [Kalodata](https://www.chgjx.com/sites/1197.html)           | Kalodata 是一个专注于跨境电商数据分析的平台，旨在帮助卖家和品牌更好地理解和优化他们在全球市场的表现。                                                                                              |
-| [PowerAdSpy](https://www.chgjx.com/sites/1191.html)         | PowerAdSpy 是顶级的广告间谍工具之一，拥有最大的广告数据库，其中包含来自最热门社交媒体网络的数百万个广告。                                                                                           |
-| [Keepa](https://www.chgjx.com/sites/1189.html)              | Keepa 是一个强大的亚马逊价格跟踪和市场分析工具，旨在帮助买家和卖家监控亚马逊市场上的产品价格和销售趋势。                                                                                              |
-| [Unicorn Smasher!](https://www.chgjx.com/sites/1185.html)   | 适用于亚马逊卖家的免费产品研究工具。快速找到完美的利基市场，评估您的竞争对手，并估算您的销售额。                                                                                                     |
-| [Pexda](https://www.chgjx.com/sites/1183.html)              | Pexda 是一个专注于电子商务的产品发现平台，旨在帮助在线零售商和dropshipping商家找到热门和趋势产品。                                                                                           |
-| [Ecomhunt](https://www.chgjx.com/sites/1164.html)           | Ecomhunt 让你能够轻松找到已经被证明畅销的产品，或者如我们所说的 “爆款产品”！只需点击几下 —— 是时候停止猜测，开始销售了！                                                                                 |
-| [AdSpy](https://www.chgjx.com/sites/1162.html)              | AdSpy 是一个全球领先的广告情报平台，专门为数字营销人员、广告代理商和电子商务企业提供服务。                                                                                                     |
-| [FindNiche](https://www.chgjx.com/sites/1160.html)          | FindNiche 是一款一站式的代发货软件。代发货利基市场、产品研究、供应商、竞争对手以及广告间谍…… 所有问题都将在这里得到解决。                                                                                  |
-| [SimilarWeb](https://www.chgjx.com/sites/1090.html)         | SimilarWeb 是一个功能强大的网站流量分析和竞争情报平台，提供广泛的流量分析、竞争分析、关键词分析和广告分析等功能，帮助用户了解网站的流量来源、用户行为和竞争情况。                                                               |
-| [BigSpy](https://www.chgjx.com/sites/1071.html)             | BigSpy 是最好的广告间谍工具和最大的广告数据库，拥有总计约 10 亿的数据量和 100 万次更新，涵盖 Facebook、Google、Youtube、Tiktok 等。                                                             |
-| [SpyFu](https://www.chgjx.com/sites/1069.html)              | SpyFu 是一个专注于关键词研究和竞争分析的在线工具集，主要用于搜索引擎优化（SEO）和付费搜索广告（PPC）。                                                                                            |
-| [FastMoss](https://www.chgjx.com/sites/993.html)            | FastMoss 为全球卖家、创作者和营销人员提供关于 TikTok 创作者、产品、店铺、广告、直播、视频、话题标签的详细数据洞察。                                                                                   |
-| [AdsMoss](https://www.chgjx.com/sites/991.html)             | AdsMoss 是一款的 TikTok 广告间谍软件，提供实时的 TikTok 广告数据，包括一个免费的 TikTok 广告间谍工具和用于 TikTok 广告的 TikTok 广告库                                                          |
-| [Koala Apps](https://www.chgjx.com/sites/899.html)          | 一个Shopify 应用和Chrome扩展程序，可免费使用，用于跟踪竞争对手、找到畅销产品和成功的主题，并优化你的店铺转化率。                                                                                      |
-| [Shine Commerce](https://www.chgjx.com/sites/897.html)      | 借助 Shine 的电子商务智能软件，更快、更好地发展你的品牌。                                                                                                                     |
-| [卖家精灵](https://www.chgjx.com/sites/888.html)                | 卖家精灵（SellerSprite）基于大数据和人工智能技术，精准查询每个产品的销量、关键词、自然搜索数据，为亚马逊跨境卖家提供一站式选品、市场分析、关键词优化、产品监控等软件工具，帮助亚马逊卖家验证选品思路，洞察竞品/变体的流量来源，优化listing和调整售卖策略，发现蓝海市场，打造潜力爆款 |
+| title                                                                | description                                                                                                                                          |
+|:---------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**新增**] [GoodsFox Fashion](https://www.chgjx.com/sites/1398.html)   | 发现最新时尚潮流的首选平台。搜索数百万种全球电子商务产品，寻找灵感，简化您的设计流程，并保持领先地位。非常适合设计师、买家、卖家和品牌。                                                                                 |
+| [**新增**] [Sorftime Save 网页插件](https://www.chgjx.com/sites/1204.html) | 全球亚马逊卖家标配工具 Sorftime Save。支持亚马逊全球14大站点。卖家浏览Amazon Best Sellers时直接可见12张亚马逊市场报告，一键看懂市场竞争性、市场需求趋势、竞品分析                                                  |
+| [**新增**] [Kalodata](https://www.chgjx.com/sites/1197.html)           | Kalodata 是一个专注于跨境电商数据分析的平台，旨在帮助卖家和品牌更好地理解和优化他们在全球市场的表现。                                                                                              |
+| [**新增**] [PowerAdSpy](https://www.chgjx.com/sites/1191.html)         | PowerAdSpy 是顶级的广告间谍工具之一，拥有最大的广告数据库，其中包含来自最热门社交媒体网络的数百万个广告。                                                                                           |
+| [**新增**] [Keepa](https://www.chgjx.com/sites/1189.html)              | Keepa 是一个强大的亚马逊价格跟踪和市场分析工具，旨在帮助买家和卖家监控亚马逊市场上的产品价格和销售趋势。                                                                                              |
+| [**新增**] [Unicorn Smasher!](https://www.chgjx.com/sites/1185.html)   | 适用于亚马逊卖家的免费产品研究工具。快速找到完美的利基市场，评估您的竞争对手，并估算您的销售额。                                                                                                     |
+| [**新增**] [Pexda](https://www.chgjx.com/sites/1183.html)              | Pexda 是一个专注于电子商务的产品发现平台，旨在帮助在线零售商和dropshipping商家找到热门和趋势产品。                                                                                           |
+| [**新增**] [Ecomhunt](https://www.chgjx.com/sites/1164.html)           | Ecomhunt 让你能够轻松找到已经被证明畅销的产品，或者如我们所说的 “爆款产品”！只需点击几下 —— 是时候停止猜测，开始销售了！                                                                                 |
+| [**新增**] [AdSpy](https://www.chgjx.com/sites/1162.html)              | AdSpy 是一个全球领先的广告情报平台，专门为数字营销人员、广告代理商和电子商务企业提供服务。                                                                                                     |
+| [**新增**] [FindNiche](https://www.chgjx.com/sites/1160.html)          | FindNiche 是一款一站式的代发货软件。代发货利基市场、产品研究、供应商、竞争对手以及广告间谍…… 所有问题都将在这里得到解决。                                                                                  |
+| [**新增**] [SimilarWeb](https://www.chgjx.com/sites/1090.html)         | SimilarWeb 是一个功能强大的网站流量分析和竞争情报平台，提供广泛的流量分析、竞争分析、关键词分析和广告分析等功能，帮助用户了解网站的流量来源、用户行为和竞争情况。                                                               |
+| [**新增**] [BigSpy](https://www.chgjx.com/sites/1071.html)             | BigSpy 是最好的广告间谍工具和最大的广告数据库，拥有总计约 10 亿的数据量和 100 万次更新，涵盖 Facebook、Google、Youtube、Tiktok 等。                                                             |
+| [**新增**] [SpyFu](https://www.chgjx.com/sites/1069.html)              | SpyFu 是一个专注于关键词研究和竞争分析的在线工具集，主要用于搜索引擎优化（SEO）和付费搜索广告（PPC）。                                                                                            |
+| [**新增**] [FastMoss](https://www.chgjx.com/sites/993.html)            | FastMoss 为全球卖家、创作者和营销人员提供关于 TikTok 创作者、产品、店铺、广告、直播、视频、话题标签的详细数据洞察。                                                                                   |
+| [**新增**] [AdsMoss](https://www.chgjx.com/sites/991.html)             | AdsMoss 是一款的 TikTok 广告间谍软件，提供实时的 TikTok 广告数据，包括一个免费的 TikTok 广告间谍工具和用于 TikTok 广告的 TikTok 广告库                                                          |
+| [**新增**] [Koala Apps](https://www.chgjx.com/sites/899.html)          | 一个Shopify 应用和Chrome扩展程序，可免费使用，用于跟踪竞争对手、找到畅销产品和成功的主题，并优化你的店铺转化率。                                                                                      |
+| [**新增**] [Shine Commerce](https://www.chgjx.com/sites/897.html)      | 借助 Shine 的电子商务智能软件，更快、更好地发展你的品牌。                                                                                                                     |
+| [**新增**] [卖家精灵](https://www.chgjx.com/sites/888.html)                | 卖家精灵（SellerSprite）基于大数据和人工智能技术，精准查询每个产品的销量、关键词、自然搜索数据，为亚马逊跨境卖家提供一站式选品、市场分析、关键词优化、产品监控等软件工具，帮助亚马逊卖家验证选品思路，洞察竞品/变体的流量来源，优化listing和调整售卖策略，发现蓝海市场，打造潜力爆款 |
 
 ## 音视频处理
 
