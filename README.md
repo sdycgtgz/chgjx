@@ -1,6 +1,6 @@
 # 出海工具箱
 
-> 本文档更新时间:2024-10-26 00:00:41，欢迎star。[**新增**] 表示7天内增加的。
+> 本文档更新时间:2024-10-27 00:00:56，欢迎star。[**新增**] 表示7天内增加的。
 
 [出海工具箱](http://www.chgjx.com)收集各类建站、SEO、选品、营销推广等工具，目前已收集**213**种服务/网站/工具(部分服务属于多个分类，未去重)，为广大独立开发者出海，跨境电商从业者，自媒体从业者服务，助力您取得成功！
 
@@ -162,30 +162,30 @@
 
 ## 建站资源
 
-| title                                                                                                                   | description                                                                                              |
-|:------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|
-| [**新增**] [Statichunt - 3900+ Composable Themes, Templates &amp; Tools Directory](https://www.chgjx.com/sites/1406.html) | Statichunt 是一个专门为可组合网站设计的主题、模板和工具目录。浏览数百种选项，为你的可组合项目找到完美的匹配！                                             |
-| [**新增**] [Landing Page Examples](https://www.chgjx.com/sites/1390.html)                                                 | 根据你的喜好找到最适合的着陆页(Landing page)以获取设计灵感。                                                                    |
-| [**新增**] [Preline UI](https://www.chgjx.com/sites/1378.html)                                                            | Preline UI 是一个开源的 Tailwind CSS 组件库，适用于各种需求。它提供了 UI 示例和模块、模板、插件、Figma 设计系统等。                              |
-| [**新增**] [Uiverse](https://www.chgjx.com/sites/1371.html)                                                               | 由社区制作的免费且可自定义的 UI 元素库，使用 CSS 或 Tailwind 构建。所有内容都可以免费复制并在你的项目中使用。Uiverse 可以为你的下一个项目节省大量用于构建和自定义 UI 组件的时间。 |
-| [**新增**] [tawk.to](https://www.chgjx.com/sites/1369.html)                                                               | 100% 免费的实时聊天软件，可用于监控网站上或来自可免费自定义页面的访客并与之聊天。                                                              |
-| [**新增**] [Quidget](https://www.chgjx.com/sites/1353.html)                                                               | 借助 Quidget 的人工智能代理自动处理 80% 的一级查询，以实现更快、更准确的响应并减少工作量。                                                     |
-| [**新增**] [Hapticlabs](https://www.chgjx.com/sites/1351.html)                                                            | Hapticlabs 提供了一个无代码工具包，用于设计、制作原型和部署沉浸式触觉体验。使用 Hapticlabs Studio、开发工具包和移动应用程序，无需编码即可在不同设备上创建自定义触觉交互。      |
-| [**新增**] [Embeddable](https://www.chgjx.com/sites/1349.html)                                                            | 用于在您的产品中构建快速加载的交互式仪表板。 ⭐️ 用代码自定义我们的图表，或自带自己的图表 ⭐️ 在无代码界面中轻松构建仪表板 ⭐️ 直接嵌入到您的前端 - 无需 iframe！               |
-| [**新增**] [Buildpad](https://www.chgjx.com/sites/1347.html)                                                              | 将你的商业想法转化为值得付费的产品。Buildpad 会引导你完成每一步，从想法验证到扩大你的业务规模，在每个环节都提供指导。                                          |
-| [**新增**] [Oodle](https://www.chgjx.com/sites/1343.html)                                                                 | 无服务器、完全托管、大规模可替代 Prometheus 的即插即用方案。                                                                     |
-| [**新增**] [URL2Tailwind](https://www.chgjx.com/sites/1338.html)                                                          | 只需点击一下，即可将任何 URL 转换为漂亮的 Tailwind CSS HTML 文件。快速、简单且功能强大。                                                 |
-| [**新增**] [Featurebase](https://www.chgjx.com/sites/1334.html)                                                           | 面向快速增长的初创公司的产品反馈和变更日志平台。简化反馈收集，识别有影响力的产品机会并通过构建正确的功能来更快地扩展。                                              |
-| [**新增**] [Polymet](https://www.chgjx.com/sites/1319.html)                                                               | Polymet 助你轻松打造精美用户界面和原型，无需任何设计背景。只需描述你的需求或提供一张图片，Polymet 就能为你设计出成品，并附上可直接用于生产的代码。                        |
-| [**新增**] [AutoI18n](https://www.chgjx.com/sites/1288.html)                                                              | 借助本地工具，帮助你轻松完成 Next.js 项目的国际化（i18n）集成以及更新、维护、翻译等工作！                                                      |
-| [**新增**] [v0 by Vercel](https://www.chgjx.com/sites/1150.html)                                                          | 与 v0 聊天。用简单的文本提示生成用户界面。复制、粘贴、发布。                                                                         |
-| [**新增**] [Wappalyzer](https://www.chgjx.com/sites/1081.html)                                                            | Wappalyzer 是一个功能强大的网站技术分析工具，提供广泛的技术识别和分析功能，帮助用户了解网站使用的技术栈、分析竞争对手的技术策略、发现技术差距和机会。                         |
-| [**新增**] [Supastarter](https://www.chgjx.com/sites/1022.html)                                                           | Supastarter 是一个为 Nuxt 3 和 Next.js 14 准备的可投入生产的 SaaS 样板。它包括认证、计费、国际化、多租户等功能。                              |
-| [**新增**] [ThemeForest](https://www.chgjx.com/sites/1020.html)                                                           | 探索数千个优质的 WordPress 主题和网站模板，包括多用途且响应式的 Bootstrap 模板、电子邮件模板和 HTML 模板。                                      |
-| [**新增**] [HTMLrev](https://www.chgjx.com/sites/1018.html)                                                               | 探索由原生 CSS、Bootstrap、Tailwind、React、Vue、Next.js、Nuxt、Svelte、Gatsby、Laravel、Astro 等构建的免费 HTML 网站模板。        |
-| [**新增**] [Saasfly](https://www.chgjx.com/sites/1016.html)                                                               | Saasfly 是一个易于使用的企业级 Next.js 样板，提供了快速、轻松构建 SaaS 应用的完整开源解决方案。                                              |
-| [**新增**] [HeyForm](https://www.chgjx.com/sites/1012.html)                                                               | 使用 HeyForm 的免费表单生成器创建调查、测验和投票。现在注册，即可轻松快速地免费制作漂亮、互动的在线表单。                                                |
-| [**新增**] [Postmark-templates](https://www.chgjx.com/sites/1009.html)                                                    | 邮件模板，包含多种模板类型如欢迎邮件、重置密码邮件等，每种都有三种布局变化。可用于开发者在给用户发的各类邮件中。                                                 |
+| title                                                                                                          | description                                                                                              |
+|:---------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|
+| [Statichunt - 3900+ Composable Themes, Templates &amp; Tools Directory](https://www.chgjx.com/sites/1406.html) | Statichunt 是一个专门为可组合网站设计的主题、模板和工具目录。浏览数百种选项，为你的可组合项目找到完美的匹配！                                             |
+| [Landing Page Examples](https://www.chgjx.com/sites/1390.html)                                                 | 根据你的喜好找到最适合的着陆页(Landing page)以获取设计灵感。                                                                    |
+| [Preline UI](https://www.chgjx.com/sites/1378.html)                                                            | Preline UI 是一个开源的 Tailwind CSS 组件库，适用于各种需求。它提供了 UI 示例和模块、模板、插件、Figma 设计系统等。                              |
+| [Uiverse](https://www.chgjx.com/sites/1371.html)                                                               | 由社区制作的免费且可自定义的 UI 元素库，使用 CSS 或 Tailwind 构建。所有内容都可以免费复制并在你的项目中使用。Uiverse 可以为你的下一个项目节省大量用于构建和自定义 UI 组件的时间。 |
+| [tawk.to](https://www.chgjx.com/sites/1369.html)                                                               | 100% 免费的实时聊天软件，可用于监控网站上或来自可免费自定义页面的访客并与之聊天。                                                              |
+| [Quidget](https://www.chgjx.com/sites/1353.html)                                                               | 借助 Quidget 的人工智能代理自动处理 80% 的一级查询，以实现更快、更准确的响应并减少工作量。                                                     |
+| [Hapticlabs](https://www.chgjx.com/sites/1351.html)                                                            | Hapticlabs 提供了一个无代码工具包，用于设计、制作原型和部署沉浸式触觉体验。使用 Hapticlabs Studio、开发工具包和移动应用程序，无需编码即可在不同设备上创建自定义触觉交互。      |
+| [Embeddable](https://www.chgjx.com/sites/1349.html)                                                            | 用于在您的产品中构建快速加载的交互式仪表板。 ⭐️ 用代码自定义我们的图表，或自带自己的图表 ⭐️ 在无代码界面中轻松构建仪表板 ⭐️ 直接嵌入到您的前端 - 无需 iframe！               |
+| [Buildpad](https://www.chgjx.com/sites/1347.html)                                                              | 将你的商业想法转化为值得付费的产品。Buildpad 会引导你完成每一步，从想法验证到扩大你的业务规模，在每个环节都提供指导。                                          |
+| [Oodle](https://www.chgjx.com/sites/1343.html)                                                                 | 无服务器、完全托管、大规模可替代 Prometheus 的即插即用方案。                                                                     |
+| [URL2Tailwind](https://www.chgjx.com/sites/1338.html)                                                          | 只需点击一下，即可将任何 URL 转换为漂亮的 Tailwind CSS HTML 文件。快速、简单且功能强大。                                                 |
+| [Featurebase](https://www.chgjx.com/sites/1334.html)                                                           | 面向快速增长的初创公司的产品反馈和变更日志平台。简化反馈收集，识别有影响力的产品机会并通过构建正确的功能来更快地扩展。                                              |
+| [Polymet](https://www.chgjx.com/sites/1319.html)                                                               | Polymet 助你轻松打造精美用户界面和原型，无需任何设计背景。只需描述你的需求或提供一张图片，Polymet 就能为你设计出成品，并附上可直接用于生产的代码。                        |
+| [AutoI18n](https://www.chgjx.com/sites/1288.html)                                                              | 借助本地工具，帮助你轻松完成 Next.js 项目的国际化（i18n）集成以及更新、维护、翻译等工作！                                                      |
+| [v0 by Vercel](https://www.chgjx.com/sites/1150.html)                                                          | 与 v0 聊天。用简单的文本提示生成用户界面。复制、粘贴、发布。                                                                         |
+| [Wappalyzer](https://www.chgjx.com/sites/1081.html)                                                            | Wappalyzer 是一个功能强大的网站技术分析工具，提供广泛的技术识别和分析功能，帮助用户了解网站使用的技术栈、分析竞争对手的技术策略、发现技术差距和机会。                         |
+| [Supastarter](https://www.chgjx.com/sites/1022.html)                                                           | Supastarter 是一个为 Nuxt 3 和 Next.js 14 准备的可投入生产的 SaaS 样板。它包括认证、计费、国际化、多租户等功能。                              |
+| [ThemeForest](https://www.chgjx.com/sites/1020.html)                                                           | 探索数千个优质的 WordPress 主题和网站模板，包括多用途且响应式的 Bootstrap 模板、电子邮件模板和 HTML 模板。                                      |
+| [HTMLrev](https://www.chgjx.com/sites/1018.html)                                                               | 探索由原生 CSS、Bootstrap、Tailwind、React、Vue、Next.js、Nuxt、Svelte、Gatsby、Laravel、Astro 等构建的免费 HTML 网站模板。        |
+| [Saasfly](https://www.chgjx.com/sites/1016.html)                                                               | Saasfly 是一个易于使用的企业级 Next.js 样板，提供了快速、轻松构建 SaaS 应用的完整开源解决方案。                                              |
+| [HeyForm](https://www.chgjx.com/sites/1012.html)                                                               | 使用 HeyForm 的免费表单生成器创建调查、测验和投票。现在注册，即可轻松快速地免费制作漂亮、互动的在线表单。                                                |
+| [Postmark-templates](https://www.chgjx.com/sites/1009.html)                                                    | 邮件模板，包含多种模板类型如欢迎邮件、重置密码邮件等，每种都有三种布局变化。可用于开发者在给用户发的各类邮件中。                                                 |
 
 ## 提交工具
 
